@@ -1,0 +1,14 @@
+* text=auto
+*.cs text eol=crlf
+*.c text eol=crlf
+*.h text eol=crlf
+*.rc text eol=crlf
+*.ps1 text eol=crlf
+*.txt text eol=crlf
+*.ini text eol=crlf
+*.md text eol=crlf
+*.dll binary
+*.asi binary
+*.exe binary
+*.png binary
+*.ico binary

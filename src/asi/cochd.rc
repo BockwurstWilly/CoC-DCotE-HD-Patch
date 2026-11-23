@@ -1,0 +1,27 @@
+#include <winver.h>
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,2,2,0
+ PRODUCTVERSION 1,2,2,0
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_DLL
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "BockwurstWilly"
+            VALUE "FileDescription", "CoC DCotE HD Patch - resolution, display mode, 60 fps, anisotropic filtering, precise mouse look, gamepad"
+            VALUE "FileVersion", "1.2.2.0"
+            VALUE "InternalName", "CoCHD"
+            VALUE "LegalCopyright", "Copyright 2026 BockwurstWilly - PolyForm Noncommercial 1.0.0"
+            VALUE "OriginalFilename", "CoCHD.asi"
+            VALUE "ProductName", "Call of Cthulhu: Dark Corners of the Earth HD Patch"
+            VALUE "ProductVersion", "1.2.2"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END

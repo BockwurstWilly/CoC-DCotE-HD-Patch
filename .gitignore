@@ -1,0 +1,22 @@
+# build output
+out/
+
+# game files and measurement logs: never part of the repository (copyright Bethesda / Headfirst)
+reference/
+
+# development notes, studies and analysis helpers: kept locally, not published
+STAND.md
+docs/NOTES.md
+docs/RECON.md
+docs/forum/
+tools/pe_helper.py
+tools/forum-icon/
+tools/live/fx.ps1
+
+# local tooling
+tools/bin/
+__pycache__/
+*.pyc
+*.obj
+*.exp
+*.lib

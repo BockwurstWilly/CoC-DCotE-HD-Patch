@@ -1,0 +1,24 @@
+﻿Call of Cthulhu: Dark Corners of the Earth HD Patch 1.2.2 - Drittanbieter-Komponenten / third-party components
+===========================================================================================================
+
+Ultimate ASI Loader 7.7.0  (Engine\dinput8.dll)
+  (c) ThirteenAG - MIT License (UltimateASILoader-License.txt)
+  unmodified binary, as shipped with the widescreen fix below
+  https://github.com/ThirteenAG/Ultimate-ASI-Loader
+
+Call of Cthulhu Widescreen Fix  (Engine\scripts\CallOfCthulhu.WidescreenFix.asi / .ini)
+  (c) ThirteenAG and contributors - MIT License (WidescreenFixesPack-License.txt)
+  unmodified binary of the release from 2024-09-11
+  https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/callofcthulhu
+
+CoC DCotE HD Patch  (Engine\scripts\CoCHD.asi, Engine\CoCDCoTELauncher.exe, CoCHD_Setup.exe)
+  (c) 2026 BockwurstWilly (https://github.com/BockwurstWilly) - PolyForm Noncommercial License 1.0.0
+  (HD-Patch-License.txt): free to use, share and change, not for commercial use; keep the credit.
+  Made by BockwurstWilly using Claude
+
+Not included, used from the GOG installation: the game files and the main menu artwork the
+launcher shows (decoded at runtime from MainMenu\ENGAGINGSCREENS).
+
+Call of Cthulhu: Dark Corners of the Earth (c) 2005 Bethesda Softworks LLC, a ZeniMax Media
+company. Developed by Headfirst Productions. Call of Cthulhu is a registered trademark of
+Chaosium Inc. This patch is an unofficial fan project and contains no game files.
